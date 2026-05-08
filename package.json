@@ -1,0 +1,16 @@
+{
+  "name": "nexus-platinum-datahub",
+  "version": "2.0.0",
+  "description": "Creamos Datahub - Verificación de Participantes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {
+    "googleapis": "^118.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
